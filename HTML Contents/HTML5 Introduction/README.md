@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-   <title> HTML5 INTRODUCTION </title>
-</head>
-<body>
-   <h1 style="text-align: center"> HTML5 Introduction </h1>
+ <h1 style="text-align: center"> HTML5 Introduction </h1>
    <p> <img src="html5logo.jpg" /> </p>
    <p> HTML stands Hyper Text Markup Language. It is easy and fun to learn. </p>
    <p> HTML describes the structure for web pages. </p>
